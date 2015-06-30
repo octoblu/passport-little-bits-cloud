@@ -1,0 +1,27 @@
+{
+  "name": "passport-little-bits-cloud",
+  "version": "1.0.0",
+  "description": "littleBits cloud oauth",
+  "main": "./lib",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/passport-little-bits-cloud.git"
+  },
+  "keywords": [
+    "passport",
+    "octoblu",
+    "little-bits"
+  ],
+  "author": "Octoblu Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/passport-little-bits-cloud/issues"
+  },
+  "homepage": "https://github.com/octoblu/passport-little-bits-cloud",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  }
+}
